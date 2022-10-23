@@ -1,0 +1,13 @@
+body{
+    background-color: #5b80b2;
+}
+tr:nth-child(even) {background: #5E5694;}
+th{
+    background-color: #003366;
+}
+table{
+    border: solid ;
+    padding: 1rem;
+    margin: auto;
+
+}
